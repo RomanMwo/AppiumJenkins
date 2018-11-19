@@ -1,0 +1,12 @@
+{
+  "BROWSER_NAME": "Android",
+  "VERSION": "7.0",
+  "deviceName": "Huawei P9 lite",
+  "udid": "BUC0216622004317",
+  "platformName": "Android",
+  "appPackage": "com.android.vending",
+  "appActivity": "com.android.vending.AssetBrowserActivity",
+  "autoGrantPermissions": "true",
+  "newCommandTimeout": "90000",
+  "androidInstallTimeout": "90000"
+}
